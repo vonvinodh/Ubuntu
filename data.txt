@@ -1,0 +1,6 @@
+Roll_No	Name	Department	Marks
+101	John	Computer	85
+102	Ravi	Electronics	78
+103	Asha	Computer	92
+104	Maya	Electronics	85
+105	Arjun	Mechanical	78
